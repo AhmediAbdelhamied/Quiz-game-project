@@ -9,6 +9,9 @@ It was built as a hands-on learning project while practicing fundamental JavaScr
 # 🌐 Live Demo
 [**Play the Quiz Game**](https://ahmediabdelhamied.github.io/Quiz-game-project/)
 
+# 🖼️ Preview
+![Quiz Game Preview](screenshots/quiz-game-photos.png)
+
 # 🛠️ Technologies Used
 * HTML
 * CSS
